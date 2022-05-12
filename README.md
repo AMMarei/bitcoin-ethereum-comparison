@@ -1,4 +1,4 @@
-# bitcoin-ethereum-data-analysis
+# bitcoin-ethereum-comparison
 - Raw data was obtained from Kaggle.com
 - Data was imported into DBeaver in CSV format, and then exported to a local PostgreSQL database
 - 4 different views were built in DBeaver
