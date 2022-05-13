@@ -1,4 +1,5 @@
 # bitcoin-ethereum-comparison
+Steps taken to reach the final outcome:
 - Raw data was obtained from Kaggle.com
 - Data was imported into DBeaver in CSV format, and then exported to a local PostgreSQL database
 - 4 different views were built in DBeaver
